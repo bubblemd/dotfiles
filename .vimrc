@@ -8,6 +8,9 @@ set number
 set cursorline
 set showmatch
 set laststatus=2
+set scrolloff=5
+
+inoremap <silent> jj <esc>
 
 "--------------------------
 "Start Neobundle Settings.
