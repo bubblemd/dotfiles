@@ -35,6 +35,10 @@ NeoBundle 'Shougo/neocomplcache'
 NeoBundle 'Shougo/neosnippet'
 NeoBundle 'jpalardy/vim-slime'
 NeoBundle 'scrooloose/syntastic'
+NeoBundle 'jpalardy/vim-slime'
+" NeoBundle 'tyru/caw.vim.git'
+"     nmap <C-K> <Plug> (caw:i:toggle)
+"     vmap <C-K> <Plug> (caw:i:toggle)
 NeoBundleLazy 'Shougo/vimfiler', {
 \    'autoload' : {'commands':['VimFiler']},
 \}
